@@ -159,3 +159,10 @@ Speech → Text using Whisper
 📦 List of Dependencies
 
 fastapi uvicorn[standard] python-multipart celery[redis] redis pydantic requests python-dotenv celery==5.3.6 redis==5.0.1 opencv-python python-dotenv numpy pydub speechrecognition transformers torch pillow moviepy onnxruntime
+
+*Contributions
+Shravani Tanksale(AI Lead): Built scoring models, backend logic, Celery processing, accessibility modes, and end-to-end integration.
+
+Vidyankshini Vibhute(Frontend): Developed UI, graphs, animations, upload flow, dashboard, and linked frontend with backend.
+
+Devika Mule(Cloud/DevOps): Set up AWS S3, Redis, Celery, cloud architecture, deployment environment, and backend optimizations.
