@@ -166,3 +166,5 @@ Shravani Tanksale(AI Lead): Built scoring models, backend logic, Celery processi
 Vidyankshini Vibhute(Frontend): Developed UI, graphs, animations, upload flow, dashboard, and linked frontend with backend.
 
 Devika Mule(Cloud/DevOps): Set up AWS S3, Redis, Celery, cloud architecture, deployment environment, and backend optimizations.
+<img width="1894" height="905" alt="image" src="https://github.com/user-attachments/assets/541db3ad-5001-4a42-a3e3-2addc5fcaa6f" />
+
